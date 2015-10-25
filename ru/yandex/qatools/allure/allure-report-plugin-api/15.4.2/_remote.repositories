@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Oct 25 23:23:34 EET 2015
+allure-report-plugin-api-15.4.2.jar>=
+allure-report-plugin-api-15.4.2.pom>=
+allure-report-plugin-api-15.4.2-sources.jar>=

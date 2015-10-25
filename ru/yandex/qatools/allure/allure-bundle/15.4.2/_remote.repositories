@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Oct 25 23:25:07 EET 2015
+allure-bundle-15.4.2-standalone.jar>=
+allure-bundle-15.4.2.jar>=
+allure-bundle-15.4.2-sources.jar>=
+allure-bundle-15.4.2.pom>=
